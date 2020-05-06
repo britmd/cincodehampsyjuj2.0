@@ -73,22 +73,34 @@ body {
   letter-spacing: -.05rem;
 }
 
+#home {
+  background-color: #ff8830;
+}
+
+#schedule {
+  background-color: #dd1923;
+}
+
+.white {
+  color: white;
+}
+
+#lookback {
+
+}
+
 .featureimage {
   height: 500px;
   width: 500px;
   margin: 150px 25px 150px 5px;
 }
 
-.collage1 {
-  margin-left: 50px;
-  height: 500px;
-  width: 500px;
-}
+
 
 .collageimage {
-  height: 500px;
-  width: 500px;
-  margin: 10px 0px 10px 5px;
+  height: 400px;
+  width: 400px;
+  margin: 5px;
 
 }
 
